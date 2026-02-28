@@ -38,12 +38,7 @@ It reads the current values, shows them in the UI, and rewrites only the matchin
 ## Usage
 
 1. Close **Rainbow Six Siege** if it is running.
-2. Run the script:
-
-   ```bash
-   python main.py
-   ```
-
+2. Run the .exe
 3. On first run, you’ll be prompted to select your R6S settings folder (it must contain `GameSettings.ini`).
 4. Use the buttons to change:
    - sensitivity multiplier, or
