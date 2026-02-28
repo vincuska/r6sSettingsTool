@@ -47,7 +47,25 @@ It reads the current values, shows them in the UI, and rewrites only the matchin
 
 ### Finding `GameSettings.ini`
 
-The location depends on your Ubisoft/Steam setup and account ID. The tool will ask you to select the correct folder; just choose the folder that **contains** `GameSettings.ini`.
+Your `GameSettings.ini` is always under your Documents folder, inside the Rainbow Six Siege “My Games” directory:
+
+1. Go to:
+
+   `C:\Users\<USERNAME>\Documents\My Games\Rainbow Six - Siege\`
+
+2. Inside that folder, open the folder with the long ID string (this is your **R6 account ID**), for example:
+
+   `c91c91c9-1c91-c91c-91c9-1c91c91c91c9`
+
+3. The file will be located here:
+
+   `C:\Users\USERNAME\Documents\My Games\Rainbow Six - Siege\<ACCOUNT_ID>\GameSettings.ini`
+
+When the tool asks you to select a folder, select:
+
+`C:\Users\USERNAME\Documents\My Games\Rainbow Six - Siege\<ACCOUNT_ID>\`
+
+(the folder that contains `GameSettings.ini`).
 
 ## Notes / Behavior
 
