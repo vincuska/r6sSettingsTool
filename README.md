@@ -7,14 +7,6 @@ A small Windows GUI tool (Tkinter) for editing two values in **Rainbow Six Siege
 
 The tool helps you quickly change these settings without manually opening the `.ini` file.
 
-## Screenshot
-
-Main window and dialogs:
-
-- Main window (Image 1)
-- Sensitivity dialog (Image 2)
-- Region selection dialog (Image 3)
-
 ## Features
 
 - Clean dark-themed UI
