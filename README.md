@@ -11,7 +11,8 @@ The tool helps you quickly change these settings without manually opening the `.
 
 - Clean dark-themed UI
 
-![ui](ui.png)
+<img src="https://github.com/vincuska/r6sSettingsTool/blob/main/ui.png?raw=true" width="450">
+
 - Two one-click actions:
   - **Change Sensitivity Multiplier**
   - **Change Server Region**
