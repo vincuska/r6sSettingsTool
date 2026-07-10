@@ -10,6 +10,8 @@ The tool helps you quickly change these settings without manually opening the `.
 ## Features
 
 - Clean dark-themed UI
+
+![ui](ui.png)
 - Two one-click actions:
   - **Change Sensitivity Multiplier**
   - **Change Server Region**
