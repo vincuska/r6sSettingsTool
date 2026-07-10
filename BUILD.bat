@@ -1,2 +1,2 @@
 @echo off
-py -m PyInstaller --onefile --windowed --icon icon.exe main.pyw
+py -m PyInstaller --onefile --windowed --icon icon.ico --name R6SettingsTool main.pyw
